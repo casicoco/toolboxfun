@@ -29,4 +29,4 @@ memoized-property
 termcolor
 
 # visualization
-matplotlib.pyplot
+matplotlib
